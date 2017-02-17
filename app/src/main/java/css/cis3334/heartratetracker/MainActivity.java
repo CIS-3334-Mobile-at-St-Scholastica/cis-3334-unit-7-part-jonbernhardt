@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Random;
 /**
  * Created by Tom Gibbons in Feb 2017.
- * For the CIS 3334 class at St. Scholatica
+ * For the CIS 3334 class at St. Scholastica
  */
 
 public class MainActivity extends AppCompatActivity {

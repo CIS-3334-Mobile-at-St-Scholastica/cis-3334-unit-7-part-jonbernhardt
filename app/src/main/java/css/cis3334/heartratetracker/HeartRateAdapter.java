@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 /**
  * Created by Tom Gibbons in Feb 2017.
- * For the CIS 3334 class at St. Scholatica
+ * For the CIS 3334 class at St. Scholastica
  */
 
 public class HeartRateAdapter  extends ArrayAdapter<HeartRate> {

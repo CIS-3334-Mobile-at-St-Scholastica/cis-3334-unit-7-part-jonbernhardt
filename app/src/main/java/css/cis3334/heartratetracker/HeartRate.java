@@ -1,8 +1,11 @@
 package css.cis3334.heartratetracker;
 
 /**
+ * Stores information for a single heart rate reading.
+ *     Includes the person's age for calculation of activity level
+ *
  * Created by Tom Gibbons in Feb 2017.
- * For the CIS 3334 class at St. Scholatica
+ * For the CIS 3334 class at St. Scholastica
  */
 
 public class HeartRate {
