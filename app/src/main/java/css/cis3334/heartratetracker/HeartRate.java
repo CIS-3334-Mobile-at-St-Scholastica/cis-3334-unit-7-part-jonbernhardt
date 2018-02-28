@@ -1,5 +1,7 @@
 package css.cis3334.heartratetracker;
 
+import java.io.Serializable;
+
 /**
  * Stores information for a single heart rate reading.
  *     Includes the person's age for calculation of activity level
@@ -8,7 +10,7 @@ package css.cis3334.heartratetracker;
  * For the CIS 3334 class at St. Scholastica
  */
 
-public class HeartRate {
+public class HeartRate implements Serializable {
     private Integer pulse;       // actual rate in beats per minute
     private Integer age;            // age when heart rate measurement was taken
     private Double maxHeartRate;    // calculated maximum rate based on age
